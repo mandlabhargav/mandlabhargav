@@ -31,5 +31,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mandlabhargav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/mandlabhargav/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
 
