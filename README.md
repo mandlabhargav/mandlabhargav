@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **bhargavoutlook123@gmail.com**
+- 📫 How to reach me **mandlabhargav6883@gmail.com**
 
 - ⚡ Fun fact **I'm secretly Batman.... but don't tell anyone**
 
